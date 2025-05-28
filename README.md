@@ -32,7 +32,8 @@
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cythonic1&theme=github_dark)
 
 
+![My Snake](https://github.com/Cythonic1/Cythonic1/blob/output/github-contribution-grid-snake-dark.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cythonic1/Cythonic1/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cythonic1/Cythonic1/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
