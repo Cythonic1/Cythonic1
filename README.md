@@ -30,3 +30,9 @@
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cythonic1&theme=github_dark)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cythonic1&theme=github_dark)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cythonic1&theme=github_dark)
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cythonic1/Cythonic1/blob/output/github-contribution-grid-snake.svg" />
+</picture>
