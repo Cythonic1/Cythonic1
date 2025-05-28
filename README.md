@@ -34,6 +34,3 @@
 
 ![My Snake](https://github.com/Cythonic1/Cythonic1/blob/output/github-contribution-grid-snake-dark.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cythonic1/Cythonic1/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
