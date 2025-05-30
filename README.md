@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YASSER HUABISH or pythonic01</h1>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img src="https://giffiles.alphacoders.com/218/218371.gif"/>
 <h3 align="center">a cybersecurity student and developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cythonic1&label=Profile%20views&color=0e75b6&style=flat" alt="cythonic1" /> </p>
