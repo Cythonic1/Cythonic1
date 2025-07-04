@@ -25,6 +25,12 @@
 <a href="https://medium.com/@jfjbn4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jfjbn4" height="30" width="40" /></a>
 </p>
 
+## Languages-Frameworks i love to use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,mysql,py,react" />
+  <img src="https://skillicons.dev/icons?i=git,linux,androidstudio,powershell,bash,docker,github,gitlab,go" /><br>
+</p>
 
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cythonic1&theme=github_dark)
