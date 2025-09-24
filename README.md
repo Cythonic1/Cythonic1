@@ -28,7 +28,7 @@
 ## Languages-Frameworks i love to use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,zig,mysql,postgresql" />
   <img src="https://skillicons.dev/icons?i=git,linux,bash,docker,github" /><br>
 </p>
 
