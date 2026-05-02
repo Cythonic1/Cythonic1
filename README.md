@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YASSER HUABISH or pythonic01</h1>
-<img src="https://giffiles.alphacoders.com/218/218371.gif"/>
 <h3 align="center">a cybersecurity student and developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cythonic1&label=Profile%20views&color=0e75b6&style=flat" alt="cythonic1" /> </p>
 
 
 - 🌱 I’m currently learning **Windows Explotations (AD)**
